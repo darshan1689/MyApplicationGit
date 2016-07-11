@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
       //  http://www.goprogramming.space/connecting-an-android-studio-project-with-github/
         Toast.makeText(this,"Update Successfully",Toast.LENGTH_SHORT).show();
+        
     }
 }
