@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+      //  http://www.goprogramming.space/connecting-an-android-studio-project-with-github/
         Toast.makeText(this,"Update Successfully",Toast.LENGTH_SHORT).show();
     }
 }
